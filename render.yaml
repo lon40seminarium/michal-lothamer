@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: static-html-site
+    env: static
+    staticPublishPath: .
