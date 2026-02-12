@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: my-static-site
-    env: static
-    buildCommand: ""
-    staticPublishPath: .
+    name: my-site
+    env: node
+    buildCommand: "npm install"
+    startCommand: "npm start"
