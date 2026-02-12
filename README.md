@@ -1,2 +1,1 @@
-# michal-lothamer
-szkoła kościuł strzelnica
+pls
